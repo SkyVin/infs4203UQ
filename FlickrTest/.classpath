@@ -2,6 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/ElvinSee/Documents/Flickr Project/flickrapi-1.2/flickrapi-1.2/flickrapi-1.2.jar"/>
+	<classpathentry kind="lib" path="H:/LargeDesktop/2010-09-05_22-09-43/infs4203 assignment/infs4203UQ/FlickrTest/flickrapi-1.2.jar"/>
+	<classpathentry kind="lib" path="H:/LargeDesktop/2010-09-05_22-09-43/infs4203 assignment/infs4203UQ/FlickrTest/mysql-connector-java-5.1.13-bin.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
